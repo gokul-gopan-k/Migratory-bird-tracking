@@ -6,7 +6,7 @@
 
 * Clone the repo
   
-```git clone https://github.com/gokul-gopan-k/CNN-melanoma-detection.git```
+```git clone https://github.com/gokul-gopan-k/Migratory-bird-tracking.git```
 
 ```cd CNN-melanoma-detection```
 
