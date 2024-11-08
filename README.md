@@ -8,7 +8,7 @@
   
 ```git clone https://github.com/gokul-gopan-k/Migratory-bird-tracking.git```
 
-```cd CNN-melanoma-detection```
+```cd Migratory-bird-tracking```
 
 
 
