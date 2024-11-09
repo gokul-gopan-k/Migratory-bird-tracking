@@ -1,7 +1,7 @@
 ## How to run app interface
 * Creare virtual environment
 
-```python3 -m venv .venv ```  
+```python -m venv .venv ```  
 ```source .venv/bin/activate ```
 
 * Clone the repo
@@ -14,4 +14,4 @@
 
 * Run the app
   
-```python3 app.py```
+```python app.py```
