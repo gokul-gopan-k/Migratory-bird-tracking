@@ -100,7 +100,7 @@ iface = gr.Interface(
              gr.Textbox(value="India, Australia", label="Countries of Migration are"),
              gr.Textbox(value="Bird sighted in an expected country", label="Analysis")
             ],
-    examples = [["Voice of Birds/Voice of Birds/Andean Tinamou_sound/Andean Tinamou2.mp3"],["Voice of Birds/Voice of Birds/Andean Guan_sound/Andean Guan8.mp3"],[ "Voice of Birds/Voice of Birds/Common Ostrich_sound/Common Ostrich2.mp3"]],
+    examples = [["audio_inputs/Andean Tinamou2.mp3"],["audio_inputs/Andean Guan8.mp3"],[ "audio_inputs/Common Ostrich2.mp3"]],
     title="Migratory Birds tracking using audio signals",
     description="Upload audio of bird spotted along with country of spotting. Audio file should be around 5 to 20 seconds."
 )
