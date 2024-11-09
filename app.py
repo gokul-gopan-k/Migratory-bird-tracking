@@ -87,7 +87,7 @@ def create_map(audio,country_spotted):
     if country_spotted in countries_seen:
         analysis = "Bird spotted in its expected country."
     else:
-        analysis = "Bird spotted in acountry outside its migratory path. There is likely change in migratory path due to reasons such as climate change or deforestation."
+        analysis = "Bird spotted in a country outside its migratory path. There is likely change in migratory path due to reasons such as climate change or deforestation."
     return fig,test_inf(audio), c_name, countries_seen, analysis
 
 # Create Gradio interface
