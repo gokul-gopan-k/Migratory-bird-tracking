@@ -10,7 +10,9 @@
 
 ```cd Migratory-bird-tracking```
 
+* Run requirements file
 
+```pip install -r requirements.txt```
 
 * Run the app
   
